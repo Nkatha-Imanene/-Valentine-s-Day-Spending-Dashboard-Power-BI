@@ -77,8 +77,11 @@ Future integrations: Google Trends, social media sentiment, geographic filters
 Team HeartCode (Group 11)
 
 Adrian Kiprop
+
 Richard Otolo
+
 Joy Thiong'o
+
 Maureen Nkatha Imanene
 
 
