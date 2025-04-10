@@ -82,6 +82,8 @@ Richard Otolo
 
 Joy Thiong'o
 
+Lauryn Kemunto
+
 Maureen Nkatha Imanene
 
 
